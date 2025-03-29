@@ -1,9 +1,12 @@
 {
-    "_s":"1",
-    "_u":"https://i.rik.vip/?a=f194cbf3a71e2538356d0bad5e3bd96b",
-    "_a":"16032025",
-    "_ori":"landscape",
-    "_tz": [
+    "auth":"",
+    "request":"",
+    "orientation":"portrait",
+    "padding":"40",
+    "domain":[
+        "win79.com",
+    ],
+    "local": [
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
         "Asia/Saigon"
