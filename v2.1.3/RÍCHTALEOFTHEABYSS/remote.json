@@ -1,0 +1,14 @@
+{
+    "auth":"",
+    "request":"",
+    "orientation":"portrait",
+    "padding":"40",
+    "domain":[
+        "win79.com",
+    ],
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ]
+}
